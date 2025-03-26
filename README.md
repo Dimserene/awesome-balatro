@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-- [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Edward](https://github.com/efhiii)
+- [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Saffron](https://github.com/efhiii)
 - [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 - [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) - Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]
 - [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
@@ -284,6 +284,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Emergence](https://github.com/Snoresville/balatro-emergence-joker) - This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by [@Snoresville](https://github.com/Snoresville)
 - [FloundersJokers](https://github.com/Flounderlul/FloundersJokers) - Adds a variety of different jokers. by [@Flounderful](https://github.com/Flounderlul)
 - [Fusion Jokers](https://itayfeder.github.io/Fusion-Jokers/) - Fuse two jokers together to create special, powerful jokers! by [@itayfeder](https://github.com/itayfeder) and [@Lyman](https://github.com/spikeof2010)
+- [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) - Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
 - [Inscrybed Jokers](https://discord.com/channels/1116389027176787968/1224707324061552640) - Some Jokers inspired by Inscryption. by [@LunaAstraCassiopeia](https://github.com/LunaAstraCassiopeia)
 - [JankJonklers](https://github.com/spikeof2010/JankJonklers) - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 - [JellyMod](https://github.com/jamesthejellyfish/JellyMod) - A pack of 17 Jokers and 22 new "reverse" tarot cards. by [@JamestheJellyfish](https://github.com/jamesthejellyfish)
