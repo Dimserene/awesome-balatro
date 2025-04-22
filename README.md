@@ -259,6 +259,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [JokerDisplay](https://github.com/nh6574/JokerDisplay) - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 - [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770)
 - [Main Menu Tweaks](https://discord.com/channels/1116389027176787968/1212843840814325780) - Minor changes to the main menu screen. by `@termisaal`
+- [Manual Flip](https://github.com/ssyangchn/ManualFlip) - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
 - [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) - More Speed options! by [@Steamo](https://github.com/Steamopollys)
 - [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 - [Roulette](https://github.com/Hellyom/HellyomBalatroMods) - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
@@ -471,7 +472,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 - [Brainstorm](https://github.com/OceanRamen/Brainstorm) | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 - [Talisman](https://github.com/MathIsFun0/Talisman) | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun_](https://github.com/mathisfun0)
-- [Typist](https://github.com/janw4ld/balatro-typist-mod) - Typist is complete implementation of keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@janw4ld](https://github.com/janw4ld)
+- [typist](https://github.com/kasimeka/balatro-typist-mod) - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 
 ### GUI
 
